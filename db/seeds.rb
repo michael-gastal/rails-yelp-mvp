@@ -9,7 +9,7 @@ am = {
   phone_number: '04 91 24 83 63'
 }
 croq_nem_le_thai = {
-  name: "Crog'Nem Le Thai",
+  name: "Croq'Nem Le Thai",
   address: '15 Boulevard Raspail, 84000 Avignon',
   category: 'chinese',
   phone_number: '04 90 85 06 82'
